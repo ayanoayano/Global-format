@@ -1,0 +1,285 @@
+ダウンロード開始：9/26/2017 1:25:19 PM
+
+● http://3801.dip.jp:11011/error から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\error へ
+
+500.html
+403.html
+404.html
+401.html
+
+● http://3801.dip.jp:11011/about から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\about へ
+
+about-us.html
+
+● http://3801.dip.jp:11011/products から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\products へ
+
+performance-specifications.html
+table.html
+product-experience.html
+product-details.html
+modality-landing.html
+dicom2.html
+dicom.html
+components.html
+clinical-gallery_tri.html
+clinical-gallery.html
+all-products.html
+all-modalities.html
+
+● http://3801.dip.jp:11011/contact から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\contact へ
+
+Contact_Us.html
+contact-form.html
+
+● http://3801.dip.jp:11011/news から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\news へ
+
+press-release-post.html
+press-release-landing.html
+news-room.html
+events.html
+
+● http://3801.dip.jp:11011 から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011 へ
+
+test_header-footer_jp.html
+index_TMSC.html
+index.html
+filelist.htm
+header-footer2.html
+header-footer.html
+
+● http://3801.dip.jp:11011/education から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\education へ
+
+publications.html
+
+● http://3801.dip.jp:11011/search から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\search へ
+
+search-result.html
+
+● http://3801.dip.jp:11011/service から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\service へ
+
+service.html
+
+● http://3801.dip.jp:11011/resources/img/service から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\service へ
+
+360-reliance-header-banner-mobile.jpg
+360-reliance-connection-01.jpg
+360-Reliance-Banner-Bkgd.png
+
+● http://3801.dip.jp:11011/resources/img/products/experience から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\products\experience へ
+
+angio-testimonial-zahn-vascular-structures.jpg
+angio-testimonial-wright-lebonheur.jpg
+angio-testimonial-wright-adv-3d.jpg
+angio-testimonial-waller-hybrid-suite.jpg
+angio-testimonial-waller-3d-roadmap-tech.jpg
+angio-testimonial-sullivan-working-right.jpg
+angio-testimonial-snyder-lci.jpg
+angio-testimonial-smalling-tavr.jpg
+angio-testimonial-sathanandam-versatility-infinix.jpg
+angio-testimonial-sathanandam-3d-modality-fusion.jpg
+angio-testimonial-mcclish-transradial-procedures.jpg
+angio-testimonial-mcclish-intervential-radial-tech.jpg
+angio-testimonial-mariano-infinix-select.jpg
+angio-testimonial-maini-tavr.jpg
+angio-testimonial-kott-roadmap.jpg
+angio-testimonial-kaleida-health-gvi.jpg
+angio-testimonial-hopkins-ease-of-use.jpg
+angio-testimonial-gyorke-guideview.jpg
+angio-testimonial-galantowicz-ped-interventions.jpg
+angio-testimonial-galantowicz-hybrid-cath-table.jpg
+angio-testimonial-galantowicz-collaboration.jpg
+angio-testimonial-dashoff-dts.jpg
+angio-testimonial-cheatham-patient-access.jpg
+angio-testimonial-cheatham-hybrid-design.jpg
+angio-testimonial-cheatham-hybrid-cath-table.jpg
+angio-testimonial-bednarek-dts.jpg
+angio-testimonial-barker-why-perform-radial.jpg
+angio-practical-experience-banner.jpg
+angio-infinix-footer-logo.png
+angio-experience-banner-mobile.jpg
+angio-clinical-epic-sec-pulmonic.jpg
+angio-clinical-epic-sec-femoral.jpg
+
+● http://3801.dip.jp:11011/resources/icon から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\icon へ
+
+favicon.ico
+apple-touch-icon.png
+
+● http://3801.dip.jp:11011/resources/img/home から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\home へ
+
+Ultimax-tile-6-28-16.jpg
+event-banner-aium-v1.jpg
+event-banner-aium-tile.jpg
+Celesteion-tile-6-27-16.jpg
+banner-full-width-tall-03.jpg
+banner-full-width-tall-02.jpg
+banner-full-width-tall-01.jpg
+ATO-tile-4-4-16-v2.jpg
+
+● http://3801.dip.jp:11011/resources/css から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\css へ
+
+material-design-iconic-font.min.css
+home.css
+font.css
+core.css
+clinical-gallery-fluid.css
+bootstrap.css
+
+● http://3801.dip.jp:11011/resources/js から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\js へ
+
+validator.js
+scroll-to-top.js
+publications.js
+jquery.heightLine.js
+jquery.cookie.js
+global-2016.js
+cookie.notice.js
+clinical-gallery-2016.js
+
+● http://3801.dip.jp:11011/resources/img/contact から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\contact へ
+
+contact-header-banner-mobile.jpg
+contact-banner-09242015.jpg
+
+● http://3801.dip.jp:11011/resources/img/products/product-details から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\products\product-details へ
+
+prime-overview-testimonial-sisco.jpg
+prime-overview-tech-assist-mobile-01.jpg
+prime-overview-tech-assist-01.jpg
+prime-overview-semar-01.jpg
+prime-overview-hero-shot-01.jpg
+prime-overview-featured-purevision.jpg
+prime-overview-featured-enhanced-workflow.jpg
+prime-overview-featured-enhanced-clinical.jpg
+Prime-Overview-Clincial-Example-01.gif
+prime-banner-overview-01.jpg
+ct-prime-scalability-product-shot.png
+ct-header-logo-prime.svg
+ct-aquilion-prime-banner-mobile.jpg
+
+● http://3801.dip.jp:11011/resources/img/products/modality-landing から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\products\modality-landing へ
+
+Toshiba-medical-white-papers-case-studies.png
+tile-ato-status.jpg
+ct-landing-purevision-detector-01.png
+ct-landing-mita-smart-01.png
+ct-landing-header-banner-05.png
+ct-landing-first-logo.png
+ct-landing-featured-vitrea-extend-01.jpg
+ct-landing-featured-aquilion-protect-01.jpg
+ct-landing-banner-mobile.jpg
+ct-landing-aidr-3d-01.png
+
+● http://3801.dip.jp:11011/resources/img/education から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\education へ
+
+sddefault.jpg
+edu-banner-institute-of-advanced-training.png
+
+● http://3801.dip.jp:11011/resources/img/products/dicom から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\products\dicom へ
+
+enterprise-integration-banner-09152015.jpg
+
+● http://3801.dip.jp:11011/resources/img/events から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\events へ
+
+events-banner-20150915.jpg
+
+● http://3801.dip.jp:11011/resources/fonts から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\fonts へ
+
+Material-Design-Iconic-Font.woff2Pv=2.2.0 （"Material-Design-Iconic-Font.woff2?v=2.2.0" から変更）
+Material-Design-Iconic-Font.woffPv=2.2.0 （"Material-Design-Iconic-Font.woff?v=2.2.0" から変更）
+Material-Design-Iconic-Font.ttfPv=2.2.0 （"Material-Design-Iconic-Font.ttf?v=2.2.0" から変更）
+glyphicons-halflings-regular.woff2
+glyphicons-halflings-regular.woff
+glyphicons-halflings-regular.ttf
+
+● http://3801.dip.jp:11011/resources/img/news-room から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\news-room へ
+
+press-release-featured-worklifeseal.jpg
+press-release-featured-tmru.jpg
+press-release-featured-corona-regional.jpg
+press-release-featured-aquilion-family-ct.jpg
+press-peleases-banner-02-09-16.jpg
+news-room-banner-titan-3t-is.jpg
+news-room-banner-frost-sullivan.jpg
+news-room-banner-dts.jpg
+news-room-banner-adv-neuro-body.jpg
+news-room-article-xr-jameson-hospital.jpg
+news-room-article-winn-army-community-hospital.jpg
+news-room-article-ul-lady-of-lourdes-memorial-hospital.jpg
+image_2016-7_Aquilion-PRIME_CT.jpg
+
+● http://3801.dip.jp:11011/resources/ja-jp/css から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\ja-jp\css へ
+
+ja-jp.css
+
+● http://3801.dip.jp:11011/resources/img/core から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\core へ
+
+tm-red-header-logo.svg
+tams-red-header-logo.svg
+tams-made-for-life-header.svg
+tams-footer-logo.svg
+logo-canon-group-01b.svg
+
+● http://3801.dip.jp:11011/resources/ja-jp/img/products/dicom から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\ja-jp\img\products\dicom へ
+
+panel-dicom.jpg
+logo-dicom.gif
+
+● http://3801.dip.jp:11011/resources/img/modality から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\modality へ
+
+phone-icon.png
+modality-xr.jpg
+modality-ul.jpg
+modality-mr.jpg
+modality-ct.jpg
+modality-angio.jpg
+
+● http://3801.dip.jp:11011/resources/img/products/landing から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\products\landing へ
+
+modality-landing-xray-hero-shot.png
+modality-landing-ultrasound-hero-shot.png
+modality-landing-magnetic-resonance-hero-shot.png
+modality-landing-computed-tomography-hero-shot.png
+modality-landing-angiography-hero-shot.png
+
+● http://3801.dip.jp:11011/resources/img/about から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\about へ
+
+our-mission-banner-mobile.jpg
+our-mission-banner-09232015.jpg
+
+● http://3801.dip.jp:11011/resources/img/side-navigation から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\side-navigation へ
+
+side-navigation-chevron-right.png
+press-release-navigation-rss-feed.png
+
+● http://3801.dip.jp:11011/resources/img/secondary-nav/products/ct から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\secondary-nav\products\ct へ
+
+product-navbar-ct-celesteion-icon.png
+product-navbar-ct-aquilion-rxl-icon.png
+product-navbar-ct-aquilion-prime-icon.png
+product-navbar-ct-aquilion-one-icon.png
+product-navbar-ct-aquilion-lightning-icon.png
+product-navbar-ct-aquilion-lb-icon.png
+
+● http://3801.dip.jp:11011/resources/ja-jp/img/core から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\ja-jp\img\core へ
+
+tmsc-logo-jp.svg
+
+● http://3801.dip.jp:11011/resources/img/clinical から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\img\clinical へ
+
+Xario-100-Abdomen-03.jpg
+Xario-100-Abdomen-02.jpg
+Xario-100-Abdomen-01.jpg
+ul-xario-100-technology-heroshot.png
+ul-xario100-clinical-banner-mobile.jpg
+ul-xario-100-banner-clinical.jpg
+
+● http://3801.dip.jp:11011/resources/media から C:\MyProgram Files\WEBEX915\Website Explorer\3801.dip.jpW11011\resources\media へ
+
+Video-Example.mp4
+
+ダウンロード完了：9/26/2017 1:28:03 PM
+
+ダウンロード予定数：176
+ダウンロード総数：176
+エラーはありませんでした。
