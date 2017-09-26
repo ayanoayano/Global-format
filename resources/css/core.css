@@ -115,13 +115,13 @@ body {
 
 @media (min-width: 200px) and (max-width: 767px) {
 #header-wrap .navbar {
-	position: absolute;
-	top: 0;
-	right: 0;
-	left: 0;
-	z-index: 1030;
-	background-color: rgb(20,20,20);
-	border-bottom: 1px solid rgb(50,50,50) !important;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid rgba(200, 200, 200, 1) !important;
 }
 #page-wrap {
 	padding-top: 50px;
@@ -164,10 +164,10 @@ body {
 	color: #ffffff;
 }
 #primary-nav #menu-toggle:hover, #primary-nav #menu-toggle:active, #primary-nav #menu-toggle:focus {
-	outline: none;
-	color: rgb(207,20,43);
-	border: none;
-	background-color: rgb(10,10,10);
+    outline: none;
+    /* color: rgb(207,20,43); */
+    border: none;
+    background-color: rgb(255, 255, 255);
 }
 #primary-nav .menu i {
 	font-size: 12px;
@@ -209,15 +209,16 @@ body {
 	display: none;
 }
 #resource-nav {
-	background-color: white;
-	height: auto;
-	width: 100%;
-	border-bottom: 1px solid rgba(243,243,243,1.00);
+    /* background-color: rgba(250, 250, 250, 1); */
+    height: auto;
+    width: 100%;
+    border-bottom: 1px solid rgba(243,243,243,1.00);
 }
 #resource-nav a {
-	display: block;
-	padding: 10px;
-	color: rgba(128,128,128,1.00);
+    display: block;
+    padding: 10px;
+    color: rgba(128,128,128,1.00);
+    /* background-color: rgba(250, 250, 250, 1); */
 }
 #resource-nav a:hover {
 	color: rgb(207,20,43);
@@ -258,16 +259,16 @@ body {
 @media (max-width: 767px) {
 /*background behind mobile nav*/
 #mobile-background {
-	position: fixed;
-	top: 0;
-	right: -768px;
-	width: 767px;
-	height: 100%;
-	z-index: 1500;
-	display: block;
-	opacity: 0;
-	background-color: rgba(0,0,0,.85);
-	transition: opacity ease-in-out .15s;
+    position: fixed;
+    top: 0;
+    right: -768px;
+    width: 767px;
+    height: 100%;
+    z-index: 1500;
+    display: block;
+    opacity: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    transition: opacity ease-in-out .15s;
 }
 /*trigger class to activate background behind mobile nav*/
 .open-mobile-background {
@@ -277,7 +278,6 @@ body {
 /*Button to open mobile nav*/
 #primary-nav #menu-toggle {
 	color: rgb(200,200,200);
-
 	border-radius: 0;
 	margin: 7.5px;
 	min-height: 35px;
@@ -288,28 +288,28 @@ body {
 }
 /*Mobile nav container*/
 #navbar-mobile {
-	position: fixed;
-	right: -500px;
-	width: 320px;
-	background-color: rgb(25,25,25);
-	padding-top: 0px;
-	padding-bottom: 50px;
-	transition: all ease-in-out .5s;
-	height: 100%;
-	z-index: 2000;
-	top: 0px;
-	display: block;
-	box-shadow: 0px 0 3px rgba(0,0,0,.8);
-	border-left: 1px solid rgba(0,0,0,1.00);
-	overflow-x: hidden;
+    position: fixed;
+    right: -500px;
+    width: 320px;
+    background-color: rgba(220, 220, 220, 1);
+    padding-top: 0px;
+    padding-bottom: 50px;
+    transition: all ease-in-out .5s;
+    height: 100%;
+    z-index: 2000;
+    top: 0px;
+    display: block;
+    box-shadow: 0px 0 3px rgba(0,0,0,.8);
+    /* border-left: 1px solid rgba(0,0,0,1.00); */
+    overflow-x: hidden;
 }
 /*trigger class to activate  mobile nav*/
 .open-menu {
 	right: 0 !important;
 }
 .mobile-header {
-	height: 50px;
-	background-color: rgb(15,15,15);
+    height: 50px;
+    background-color: rgb(255, 255, 255);
 }
 /*brand for mobile nav*/
 .mobile-header .navbar-brand-mobile {
@@ -317,19 +317,19 @@ body {
 }
 /*button to close mobile nav*/
 .mobile-header #menu-toggle-close {
-	display: inline-block;
-	color: rgb(150,150,150);
-
-	line-height: 50px;
-	border-radius: 0;
-	margin: 0;
-	min-height: 50px;
-	border: none;
-	background-color: rgb(15,15,15);
-	float: right;
-	padding: 0 10px;
-	cursor: pointer;
-	z-index: 2000;
+    display: inline-block;
+    color: rgb(150,150,150);
+    line-height: 50px;
+    border-radius: 0;
+    margin: 0;
+    min-height: 50px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    float: right;
+    padding: 0 10px;
+    cursor: pointer;
+    z-index: 2000;
+	
 }
 .mobile-header #menu-toggle-close:hover {
 	color: rgb(207,20,43);
@@ -338,29 +338,30 @@ body {
 	color: rgb(207,20,43);
 }
 .mobile-header #menu-toggle-close:hover, .mobile-header #menu-toggle-close:active, .mobile-header #menu-toggle-close:focus {
-	outline: none;
-	color: rgb(207,20,43);
-	border: none;
-	background-color: rgb(10,10,10);
+    outline: none;
+    color: rgb(207,20,43);
+    border: none;
+    background-color: rgb(255, 255, 255);
 }
+	
 .mobile-header i {
 	font-size: 11px;
 }
 #mobile-search .form-control {
-	border-radius: 0;
-	color: rgb(200,200,200);
-	border: none;
-	border-top: 1px solid rgb(25,25,25);
-	border-bottom: 1px solid rgb(5,5,5);
-	background-color: rgb(15,15,15);
-	box-shadow: none;
-	-webkit-transition: none;
-	-o-transition: none;
-	transition: none;
-	padding-left: 15px;
-	height: 40px;
-	line-height: 1.44;
-	font-weight: 400;
+    border-radius: 0;
+    color: rgb(200,200,200);
+    border: none;
+    border-top: 1px solid rgb(150, 150, 150);
+    border-bottom: 1px solid rgba(150, 150, 150, 1);
+    /* background-color: rgb(15,15,15); */
+    box-shadow: none;
+    -webkit-transition: none;
+    -o-transition: none;
+    transition: none;
+    padding-left: 15px;
+    height: 40px;
+    line-height: 1.44;
+    font-weight: 400;
 }
 #mobile-search .form-control:focus {
 	border: none;
@@ -380,16 +381,16 @@ body {
  color:rgb(207,20,43);
 }
 #mobile-search .btn {
-	border-radius: 0;
-	border: none;
-	padding-left: 29px;
-	padding-right: 30px;
-	padding-top: 9px;
-	padding-bottom: 9px;
-	color: rgb(200,200,200);
-	background-color: rgb(15,15,15);
-	border-top: 1px solid rgb(25,25,25);
-	border-bottom: 1px solid rgb(5,5,5);
+    border-radius: 0;
+    border: none;
+    padding-left: 29px;
+    padding-right: 30px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    color: rgb(200,200,200);
+    /* background-color: rgb(15,15,15); */
+    border-top: 1px solid rgba(150, 150, 150, 1);
+    border-bottom: 1px solid rgba(150, 150, 150, 1);
 }
 #mobile-search .btn:hover {
 	color: rgb(207,20,43);
@@ -403,9 +404,9 @@ body {
 	font-size: 18px;
 }
 #navbar-mobile .nav li a {
-	border-bottom: 1px solid rgb(5,5,5);
-	border-top: 1px solid rgb(35,35,35);
-	color: rgb(240,240,240);
+    /* border-bottom: 1px solid rgb(5,5,5); */
+    border-top: 1px solid rgb(255, 255, 255);
+    color: rgba(35, 35, 35, 1);
 }
 #navbar-mobile .nav li li a {
 	border-bottom: none;
