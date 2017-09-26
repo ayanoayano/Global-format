@@ -1,0 +1,219 @@
+<navigation><div id="navigation">
+<!-- SearchBar for PC [ not edit ] -->
+<div id="search-bar">
+<div class="cg-wrap">
+<form action="//search.global.canon/en_all/search.x">
+<input type="text" name="q" id="MF_form_phrase" autocomplete="off" class="search-txt">
+<input type="submit" value="" class="search-btn">
+<input type="hidden" name="ie" value="utf8">
+</form>
+<div id="search-x"><img src="/00cmn/img/common/btn-close.png" alt="close"></div>
+</div>
+</div>
+<!-- /SearchBar for PC -->
+
+<div class="global-navi01">
+<div class="cg-wrap"><div class="col-row">
+<div class="col-md-7"><ul class="level1">
+<li><div class="note-blk"><div class="nav-ttl">ビジョン</div><p class="nav-lead">トップメッセージ、企業理念、経営計画をご紹介しています。</p>
+<div class="cg-btn"><a href="/ja/vision/">詳細へ</a></div></div>
+<ul class="level2">
+<li><a href="/ja/vision/greeting.html">トップメッセージ</a></li>
+<li><a href="/ja/vision/philosophy.html">企業理念</a></li>
+<li><a href="/ja/vision/strategies.html">経営計画</a></li>
+<li><a href="/ja/vision/2020.html">Toward 2020 (動画)</a></li>
+</ul></li></ul></div>
+<div class="col-md-5">
+<div class="nav-img"><div class="pick-ttl">Pick Up</div>
+<div class="pick-conts"><div class="col-pu-6"><a href="/ja/vision/greeting.html"><img src="/00cmn/img/common/nav/img-ceo.png" alt=""></a></div>
+<div class="col-pu-6"><a href="/ja/vision/greeting.html">
+<h4>トップメッセージ</h4>
+<p>キヤノン株式会社代表取締役会長 CEO 御手洗冨士夫からのメッセージです。</p></a></div>
+</div>
+</div></div>
+</div></div>
+</div>
+<div class="global-navi02">
+<div class="cg-wrap"><div class="col-row">
+<div class="col-md-7"><ul class="level1">
+<li><div class="note-blk"><div class="nav-ttl">事業領域</div><p class="nav-lead">キヤノンのさまざまな企業活動をご覧ください。</p>
+<div class="cg-btn"><a href="/ja/business/index.html">詳細へ</a></div></div>
+<ul class="level2">
+<li><a href="/ja/business/personal.html">パーソナル</a></li>
+<li><a href="/ja/business/office.html">オフィス</a></li>
+<li><a href="/ja/business/professional.html">プロフェッショナル</a></li>
+<li><a href="/ja/business/industry.html">インダストリー</a></li>
+<li><a href="/ja/business/global-marketing.html">グローバルマーケティング／サービス</a></li>
+</ul></li></ul></div>
+<div class="col-md-5">
+<div class="nav-img"><div class="pick-ttl">Pick Up</div>
+<div class="pick-conts"><div class="col-pu-6"><a href="/ja/business/industry.html#section04"><img src="/00cmn/img/common/nav/img-netcamera.png" alt=""></a></div>
+<div class="col-pu-6"><a href="/ja/business/industry.html#section04"><h4>ネットワークカメラ</h4>
+<p>動きをとらえ、解析する、テクノロジーの眼。</p></a></div>
+</div>
+</div></div>
+</div></div>
+</div>
+<div class="global-navi03">
+<div class="cg-wrap"><div class="col-row">
+<div class="col-md-7"><ul class="level1">
+<li><div class="note-blk"><div class="nav-ttl"><a href="/ja/news/index.html">ニュース</a></div></div></li>
+</ul></div>
+</div></div></div>
+<div class="global-navi04">
+<div class="cg-wrap"><div class="col-row">
+<div class="col-md-7"><ul class="level1">
+<li><div class="note-blk"><div class="nav-ttl">キヤノンについて</div><p class="nav-lead">Here you will find information about Canon such as corporate profile, investor relations, and CSR activities.</p>
+<div class="cg-btn"><a href="/ja/about/index.html">詳細へ</a></div></div>
+<ul class="level2">
+<li><a href="/ja/corporate/">会社概要</a></li>
+<li><a href="//web.canon.jp/technology/index.html">テクノロジー</a></li>
+<li><a href="//cweb.canon.jp/ir/index.html">投資家向け情報</a></li>
+<li><a href="//cweb.canon.jp/recruit/index.html">採用情報</a></li>
+<li><a href="//cweb.canon.jp/csr/index.html">CSR活動</a></li>
+<li><a href="//canon.jp/ecology/index.html">環境への取り組み</a></li>
+<li><a href="//web.canon.jp/scsa/index.html">社会貢献活動</a></li>
+</ul></li></ul></div>
+<div class="col-md-5">
+<div class="nav-img"><div class="pick-ttl">Pick Up</div>
+<div class="pick-conts"><div class="col-pu-6"><a href="/ja/v-square/"><img src="/00cmn/img/common/nav/img-eflens.png" alt=""></a></div>
+<div class="col-pu-6"><a href="/ja/v-square/"><h4>キヤノン ビデオスクエア</h4>
+<p>EFレンズ技術訴求映像 ～EF Lens Technology～</p></a></div>
+</div>
+</div></div>
+</div></div>
+</div>
+</div>
+<div id="smp-navigation">
+<!-- SearchBar for SmartPhone [ not edit ] -->
+<div id="smp-search-bar_html">
+<form id="search-form2" action="//search.global.canon/en_all/search.x">
+<input type="text" name="q" id="MF_form_phrase" autocomplete="off" class="search-txt">
+<input type="submit" value="" class="search-btn">
+<input type="hidden" name="ie" value="utf8">
+</form>
+</div>
+<!-- /SearchBar for SmartPhone [ not edit ] -->
+
+<div class="sp-topnavi-list" id="smp-navigationList">
+<div class="sp-topnavi-list">
+
+<ul class="sp-navi-list">
+<li class="home"><a href="/ja/">ホーム</a></li>
+<li><span>ビジョン</span>
+<ul class="scnd-level">
+<li class="back"><a href="#mm-0">戻る</a></li>
+<li class="nav_main"><a href="/ja/vision/index.html">ビジョン</a></li>
+<li class="nav_child"><a href="/ja/vision/greeting.html">トップメッセージ</a></li>
+<li class="nav_child"><a href="/ja/vision/philosophy.html">企業理念</a></li>
+<li class="nav_child"><a href="/ja/vision/strategies.html">経営計画</a></li>
+<li class="nav_child"><a href="/ja/vision/2020.html">Toward 2020 (動画)</a></li>
+</ul>
+</li>
+<li><span>事業領域</span>
+<ul class="scnd-level">
+<li class="back"><a href="#mm-0">戻る</a></li>
+<li class="nav_main"><a href="/ja/business/index.html">事業領域</a></li>
+<li class="nav_child"><a href="/ja/business/personal.html">パーソナル</a></li>
+<li class="nav_child"><a href="/ja/business/office.html">オフィス</a></li>
+<li class="nav_child"><a href="/ja/business/professional.html">プロフェッショナル</a></li>
+<li class="nav_child"><a href="/ja/business/industry.html">インダストリー</a></li>
+<li class="nav_child"><a href="/ja/business/global-marketing.html">グローバルマーケティング／サービス</a></li>
+</ul>
+</li>
+<li><a href="/ja/news/">ニュース</a></li>
+<li><span>キヤノンについて</span>
+<ul class="scnd-level">
+<li class="back"><a href="#mm-0">戻る</a></li>
+<li class="nav_main"><a href="/ja/about/index.html">キヤノンについて</a></li>
+
+<li class="nav_child"><span>Corporate Info</span>
+<ul class="scnd-level">
+<li class="back"><a href="#mm-0">戻る</a></li>
+<li class="nav_main"><a href="/ja/corporate/">会社情報</a></li>
+<ul class="scnd-level">
+<li class="nav_child"><span>Basic Information</span>
+<ul class="scnd-level">
+<li class="back"><a href="#mm-0">戻る</a></li>
+<li class="nav_main"><a href="/ja/corporate/information/">基本情報</a></li>
+<li class="nav_child"><a href="/ja/corporate/information/profile.html">会社概要</a></li>
+<li class="nav_child"><a href="/ja/corporate/information/executive.html">役員一覧</a></li>
+<li class="nav_child"><a href="/ja/corporate/information/organization.html">組織図</a></li>
+<li class="nav_child"><a href="/ja/corporate/information/location.html">事業所一覧</a></li>
+<li class="nav_child"><span>グープ会社情報</span>
+<ul class="scnd-level">
+  <li class="back"><a href="#mm-0">戻る</a></li>
+  <li class="nav_main"><a href="/ja/corporate/information/group/index.html">グープ会社情報</a></li>
+  <li class="nav_child"><a href="/ja/corporate/information/group/gr01.html">製造会社</a></li>
+  <li class="nav_child"><a href="/ja/corporate/information/group/gr02.html">研究開発・ソフトウエア会社</a></li>
+  <li class="nav_child"><a href="/ja/corporate/information/group/gr03.html">販売会社</a></li>
+  <li class="nav_child"><a href="/ja/corporate/information/group/gr04.html">その他関係会社</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav_child"><span>業績データ</span>
+<ul class="scnd-level">
+<li class="back"><a href="#mm-0">戻る</a></li>
+<li class="nav_main"><a href="/ja/corporate/result/">業績データ</a></li>
+<li class="nav_child"><a href="/ja/corporate/result/summary.html">業績ハイライト</a></li>
+<li class="nav_child"><a href="/ja/corporate/result/10years_group.html">キヤノングループ最新の10年</a></li>
+<li class="nav_child"><a href="/ja/corporate/result/10years_canon.html">キヤノン株式会社最新の10年</a></li>
+</ul>
+</li>
+<li class="nav_child"><span>キヤノンの歴史</span>
+<ul class="scnd-level">
+<li class="back"><a href="#mm-0">戻る</a></li>
+<li class="nav_main"><a href="/ja/corporate/history/">キヤノンの歴史</a></li>
+<li class="nav_child"><a href="/ja/corporate/history/01.html">1933 - 1961</a></li>
+<li class="nav_child"><a href="/ja/corporate/history/02.html">1962 - 1975</a></li>
+<li class="nav_child"><a href="/ja/corporate/history/03.html">1976 - 1987</a></li>
+<li class="nav_child"><a href="/ja/corporate/history/04.html">1988 - 1995</a></li>
+<li class="nav_child"><a href="/ja/corporate/history/05.html">1996 - </a></li>
+</ul>
+</li>
+<li class="nav_child"><a href="/ja/corporate/pdf/">発行冊子のご紹介</a></li>
+<li class="nav_child"><a href="/ja/corporate/logo/">キヤノンロゴ</a></li>
+</ul>
+</ul>
+</li>
+<li class="nav_child"><a href="//www.canon.com/technology/index.html">テクノロジー</a></li>
+<li class="nav_child"><a href="//www.canon.com/ir/index.html">投資家向け情報</a></li>
+<li class="nav_child"><a href="//www.canon.com/csr/">CSR活動</a></li>
+<li class="nav_child"><a href="//www.canon.com/environment/index.html">環境への取り組み</a></li>
+<li class="nav_child"><a href="//www.canon.com/scsa/">社会貢献活動</a></li>
+<li class="nav_child"><a href="//cweb.canon.jp/recruit/index.html">採用情報</a></li>
+<li class="nav_child"><a href="/ja/design/">デザイン</a></li>
+<li class="nav_child"><a href="/ja/ad/">企業広告</a></li>
+<li class="nav_child"><a href="/ja/sports/">スポーツ活動</a></li>
+
+<li class="nav_child"><span>資材調達情報</span>
+<ul class="scnd-level">
+<li class="back"><a href="#mm-0">戻る</a></li>
+<li class="nav_main"><a href="/ja/procurement/">資材調達情報</a></li>
+<ul class="scnd-level">
+<li class="nav_child"><a href="/ja/procurement/policy.html">調達方針</a></li>
+<li class="nav_child"><a href="/ja/procurement/social.html">お取引先へのお願い</a></li>
+<li class="nav_child"><a href="/ja/procurement/procedure.html">新規お取引までの手続き</a></li>
+<li class="nav_child"><span>グリーン調達活動</span>
+<ul class="scnd-level">
+<li class="back"><a href="#mm-0">戻る</a></li>
+<li class="nav_main"><a href="/ja/procurement/green.html">グリーン調達活動</a></li>
+<li class="nav_child"><a href="/ja/procurement/green02.html">グリーン調達基準の考え方</a></li>
+<li class="nav_child"><a href="/ja/procurement/green03.html">グリーン調達基準書 他</a></li>
+<li class="nav_child"><a href="/ja/procurement/green04.html">グリーン調達基準書 他<br>（バックナンバー）</a></li>
+</ul>
+</li>
+<li class="nav_child"><a href="/ja/procurement/edi.html">電子取引システム</a></li>
+<li class="nav_child"><a href="/ja/procurement/contact.html">お問い合わせ</a></li>
+</ul>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+</div>
+</div>
+</div>
+</navigation>

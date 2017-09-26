@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#l2nd01, #l2nd02, #l2nd03, #l2nd04, #l2nd05 { clear:both; display:block; overflow:hidden; border-bottom:solid 2px #FFF; }
+#l2nd04 { border-bottom:0; }
+#l2nd .tbl-cell65p, #l2nd .tbl-cell35p { display:table-cell; vertical-align:middle; }
+.tbl-cell65p { width:65%;}
+.tbl-cell65p div.w100p { display:block; width:100%; overflow:hidden; }
+.tbl-cell65p img.img-fit { width:100%; height:auto; }
+.tbl-cell35p { width:35%;}
+.tbl-cell35p h2 { margin:0 0 5px; }
+.tbl-cell35p h2 a { color:#333; vertical-align:middle; background:url(/00cmn/img/common/link-arrow-bk.png) no-repeat right center; font-size:18px; line-height:1em; padding-top:2px; padding-bottom:2px; margin:0 0 5px;
+font-family:"FP-ヒラギノUD角ゴ StdN W6", "ヒラギノ角ゴ Pro W6", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif; font-weight:bold;  padding-right:34px; background-size:20px; }
+.tbl-cell35p .link-txt a { font-size:14px; line-height:18px; background-size:24px; padding-right:22px; }
+
+@media (min-width: 1024px) {
+.tbl-cell35p h2 a { font-size:24px; background-size:26px; }	
+.tbl-cell35p .link-txt a { font-size:20px; line-height:24px;  }
+}
+@media (max-width: 1023px) {
+.tbl-cell65p { width:60%; }
+.tbl-cell35p { width:40%; }
+.tbl-cell35p h2 a { font-size:18px; background-size:20px; }	
+.tbl-cell35p .link-txt a { font-size:14px; line-height:18px; background-size:24px; padding-right:22px; }
+.tbl-cell65p { background-repeat:no-repeat; background-size:cover; background-position:center center;}
+.tbl-cell65p img { display:none; }
+}
+@media (max-width: 767px) {
+.tbl-box { display: block; position: relative; }
+.tbl-box.img-right { padding-top:56.25%; }
+#l2nd .tbl-cell65p, #l2nd .tbl-cell35p { display:block; width:100%; }
+.tbl-cell35p h2 a { font-size:20px; background-size:20px; }
+.tbl-cell35p .link-txt a { font-size:16px; line-height:20px; }
+.tbl-cell35p.txt-right { text-align:left; }
+.tbl-cell65p img { display:block; }
+#l2nd .tbl-box.img-right .tbl-cell65p { position:absolute; display:block; left:0; top:0; }
+}
+
+@media (min-width: 768px){
+.col-tbl-4 .inner { min-height:270px; }
+}
+@media (min-width: 815px){
+.col-tbl-4 .inner { min-height:220px; }
+}
+@media (min-width: 951px){
+.col-tbl-4 .inner { min-height:260px; }
+}
+.col-tbl-4 div.inner p { margin-bottom:0; }

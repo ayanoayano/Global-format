@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.cg-wrap { width:980px; margin:0 auto; }
+.section-box,
+#about01 .table100, #about02 .table100, #about03 .table100, #about04 .table100, #about05 .table100, #about06 .table100, 
+#our01 .table100, #our02 .table100, #our03 .table100, #our04 .table100, #our05 .table100
+ { min-height:400px; }
+.key-visual { background-color:#CCC;}
