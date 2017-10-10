@@ -1,0 +1,27 @@
+function piResponse() {
+piSetCookie('visitor_id126101', '204430447', 3650);
+piSetCookie('visitor_id126101-hash', 'c4720cfac950723af6c90cd4838f5f7344ff81add58c606b2a12d7ad180967e4696f2a25db917281ea96e4a29534ad0848e00ed6', 3650);
+
+if (document.location.protocol != "https:") {
+var analytics_link = "http://" + "visit.toshiba-medical.biz/analytics?";
+pi.tracker.visitor_id='204430447';
+
+pi.tracker.visitor_id_sign='c4720cfac950723af6c90cd4838f5f7344ff81add58c606b2a12d7ad180967e4696f2a25db917281ea96e4a29534ad0848e00ed6';
+
+var variables = 'conly=true';
+for (property in pi.tracker) {
+	variables += "&"+property+"="+pi.tracker[property];
+}
+var headID = document.getElementsByTagName("head")[0];
+piScriptObj[piScriptNum] = document.createElement('script');
+piScriptObj[piScriptNum].type = 'text/javascript';
+piScriptObj[piScriptNum].src = analytics_link + variables;
+headID.appendChild(piScriptObj[piScriptNum]);
+piScriptObj[piScriptNum].onload = function() { return; }
+}
+}
+piResponse();
+
+
+
+

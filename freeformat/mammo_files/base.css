@@ -1,0 +1,248 @@
+.pc-only{
+    display: block;
+}
+.sp-only{
+    display: none;
+}
+.grdW img{
+    vertical-align: bottom;
+}
+.cclbk{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.cclbk div{
+    position: relative;
+}
+.cclbk img{
+    position: absolute;
+}
+.ccl01{
+    top:80px;
+    left:140px;
+    width: 75px;
+}
+.ccl02{
+    top:450px;
+    left:20px;
+}
+.ccl03{
+    top:30px;
+    left:620px;
+    width: 100px;
+}
+.ccl04{
+    top:670px;
+    left:500px;
+    width: 50px;
+}
+.ccl05{
+    top:250px;
+    left:1200px;
+    width: 80px;
+}
+.ccl06{
+    top:400px;
+    left:700px;
+}
+.ccl07{
+    width: 100px;
+    top:700px;
+    left:300px;
+}
+.ccl08{
+    top:750px;
+    left:800px;
+}
+
+
+#mainArea p{
+    color: #333;
+}
+#logo{
+    position:relative;
+    width: 343px;
+    height: 343px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#logo img{
+    text-align: center;
+}
+#logo .mark{
+    position: absolute;
+    top: 40px;
+    left: 25px;
+}
+h1{
+    margin-bottom: 3rem;
+}
+#mainArea .infoArea{
+    width: 560px;
+    float: left;
+    position: relative;
+    text-align: center;
+    padding-bottom: 4rem;
+}
+#mainArea .infoArea p{
+    text-align: left;
+    width: 75%;
+    margin: 0 auto 1.5rem;
+    font-size: .8rem;
+    line-height: 2em;
+}
+#mainArea .movieArea{
+    width: 420px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    overflow: scroll;
+    -ms-overflow-style: none;  /* IE10+ */
+}
+#mainArea .movieArea::-webkit-scrollbar {
+    display: none;
+  }
+#mainArea .movieArea img{
+    vertical-align: bottom;
+    width: 100%;
+}
+#mainArea .movieArea .movie img{
+    width: 150%;
+
+}
+
+#mainArea .movieArea li{
+    overflow: hidden;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px #ccc;
+}
+#mainArea .movieArea .movie img{
+    -webkit-transition: 1s;
+    transition: 1s;
+}
+#mainArea .movieArea .movie img:hover{
+    -webkit-transform: translate(-33.3%,0);
+    transform: translate(-33.3%,0);
+}
+
+#subArea{
+    background-color: #f3f3f3;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+}
+/*
+#subArea li{
+    width: 100%;
+}
+
+
+#subArea li:first-child{
+    float: left;
+}
+#subArea li:last-child{
+    float: right;
+}
+*/
+
+
+@media ( max-width : 767px ) {
+    iframe {
+      max-width: 100%;
+    }
+    .pc-only{
+        display: none;
+    }
+    .sp-only{
+        display: block;
+    }
+    #logo{
+        width: 100%;
+        height: auto;
+        margin: 0;
+    }
+    .canon{
+        right: 10px;
+    }
+    h1{
+        margin-top: 2rem;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #gheaderColumn2Wrapper{
+        margin: 0;
+        margin-top: 30px;
+    }
+    .grdW{
+        width: 100%;
+        max-width: none;
+        min-width: 100%;
+        box-sizing: border-box;
+        padding: 0 2%;
+    }
+    #mainArea{
+        background-image: url(../images/bk.png);
+        background-size: cover;
+    }
+    #mainArea .infoArea,
+    #mainArea .movieArea{
+        float: none;
+        width: 100%;
+    }
+    
+    #mainArea .infoArea p img{
+        width: 45%;
+    }
+    #mainArea .infoArea img,
+    #mainArea .movieArea img,
+    #subArea img{
+        width: 100%;
+    }
+    #mainArea .movieArea{
+        position: relative;
+        top: auto;
+        right: auto;
+    }
+    
+    
+    #mainArea .movieArea{
+        height: auto;
+        overflow: scroll;
+        -ms-overflow-style: none;  /* IE10+ */
+    }
+    #mainArea .movieArea::-webkit-scrollbar {
+        display: none;
+      }
+    #mainArea .movieArea img{
+        width: 100%;
+        vertical-align: bottom;
+    }
+
+    #mainArea .movieArea li{
+        overflow: hidden;
+        margin-bottom: 1rem;
+    }
+    #mainArea .movieArea .movie img{
+        -webkit-transition: none;
+        transition:none;
+        width: 100%;
+    }
+    #mainArea .movieArea .movie img:hover{
+        -webkit-transform: none;
+        transform: none;
+    }
+    #subArea li{
+        width: 100%;
+    }
+
+    #subArea li{
+        float: none;
+        margin-bottom: 1rem;
+    }
+
+    
+}
