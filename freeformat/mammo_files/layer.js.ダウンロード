@@ -1,0 +1,23 @@
+﻿$(function(){
+	setpos();
+	$('.JSoff').css('display','none');
+	$data = $.cookie('tmsc');
+	if($data == 'on') {
+		$('#cwrap, #clayer').css('display','none');
+	}
+	$('#lYes').click(function(){
+		$data = 'on';
+		$.cookie('tmsc',$data,{expires:12,path:'/'});
+		$('#cwrap, #clayer').css('display','none');
+		return false;
+	});
+});
+
+$(window).bind('resize', setpos);
+$(window).bind('scroll', setpos);
+
+function setpos() {
+	$whsize = $(window).height();
+	$whsize = (($whsize)/2)-147;
+	$('#clayer').css('top',$whsize)
+}
