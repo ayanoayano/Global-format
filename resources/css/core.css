@@ -1623,9 +1623,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f5f5', end
 }
 }
 #banner-area h1 {
-	font-size: 48px;
-	font-weight: 300;
+    font-size: 3vw;
+    font-weight: 300;
 }
+
 #banner-area h1 strong {
 	font-weight: 600;
 }
