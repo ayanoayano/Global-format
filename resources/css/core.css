@@ -68,7 +68,9 @@ body {
 	color: rgb(204,0,0);
 }
 #header-search {
-	margin: 28px auto 18px auto;
+    /* margin: 28px auto 18px auto; */
+    margin-top: 10%;
+    margin-bottom: 0;
 }
 #header-search .form-control {
 	border-radius: 0;
