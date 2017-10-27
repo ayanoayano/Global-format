@@ -3436,12 +3436,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', e
 
 @media (max-width: 1224px) {
 	.banner-caption img {
-		width: 150px;
+/*		width: 150px; */
 	}
 }
 @media (max-width: 992px) {
 	.banner-caption img {
-		width: 120px;
+/*		width: 120px; */
 	}
 }
 
